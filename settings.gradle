@@ -1,0 +1,4 @@
+include ':fileExplorer'
+include ':openCV'
+include ':app'
+rootProject.name = "ImageProcessing"
